@@ -15,7 +15,7 @@ using System.IO;
 using System.Security.Cryptography;
 
 
-//git commit Test 2018.1.24
+
 // 바이러스토탈 API키 23964f80447c21a81c6bf9588d28387041a1b15ec6f778544d008f206644b15d
 
 namespace Secure_P2P_project
